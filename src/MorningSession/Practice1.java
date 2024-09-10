@@ -6,5 +6,7 @@ public class Practice1 {
 
         // just created not added to staging area
         // Added to staging area
+        // Commited to local repository
+        // pushed to remote repository
     }
 }
